@@ -15,6 +15,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url(../bg\ 2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
